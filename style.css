@@ -1,0 +1,19 @@
+body {
+    background-color: #738bd7;
+}
+
+.title {
+    color: white;
+    font-family: 'Big Shoulders Text', cursive;
+    size: 32px ;
+}
+
+.stitle {
+    color: gray;
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+.ndtitle {
+    color: white;
+    font-family: 'Big Shoulders Text', cursive;
+}
